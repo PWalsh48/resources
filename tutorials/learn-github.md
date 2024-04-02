@@ -85,6 +85,8 @@ Branches allow development work to happen parallel to the main branch, often ref
 2. Type a branch name into the new branch text box.
 3. Select 'Create branch'.
 
+Alternatively, you can fork a repository.
+
 ## Pull Requests
 
 Pull requests announce your changes to other developers and request that someone reviews and pulls in your contribution and merges them into their branch.
@@ -93,6 +95,8 @@ Pull requests announce your changes to other developers and request that someone
 2. Select the branch you made your changes in.
 3. Review your proposed changes.
 4. Click 'Create Pull Request'.
+
+Alternatively, you can create a pull request for a forked repository.
 
 ## Merging Changes
 
