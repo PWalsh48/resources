@@ -6,7 +6,7 @@ Learn the fundamentals of quantum computing with this cache of helpful resources
 - [WQCC Workshops Repo](https://github.com/wisc-qc/workshops)
 
 ## Class resources
-- [UW-Madison Quantum Classes](https://github.com/wisc-qc/quantum-classes)
+- [UW-Madison Quantum Classes Repo](https://github.com/wisc-qc/quantum-classes)
 
 ## Articles
 ### Papers: 
